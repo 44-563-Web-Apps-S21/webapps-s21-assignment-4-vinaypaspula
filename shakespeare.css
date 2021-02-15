@@ -1,5 +1,35 @@
+.name{
+    font-family: Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
 .speech{
     font-family: Times, serif;
-    font-size: 60px;
+    font-size: 20px;
     color: black;
+}
+
+.stage-direction{
+    font-family: Times, serif;
+    font-size: 20px;
+    color: black;
+    background-color: lightcoral;
+}
+
+.stage-direction:hover{
+    background-color: lightgreen;
+    color: darkblue;
+}
+
+.virgilia{
+    color: black;
+}
+
+.gentlewoman{
+    color: black;
+}
+
+.volumnia{
+    color: black;;
 }
