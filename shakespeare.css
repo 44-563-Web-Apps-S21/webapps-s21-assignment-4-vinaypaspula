@@ -1,17 +1,17 @@
 .name{
-    font-family: Times, serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 20px;
     color: black;
 }
 
 .speech{
-    font-family: Times, serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 20px;
     color: black;
 }
 
 .stage-direction{
-    font-family: Times, serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 20px;
     color: black;
     background-color: lightcoral;
